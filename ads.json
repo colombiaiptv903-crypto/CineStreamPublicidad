@@ -1,0 +1,19 @@
+{
+  "rotation_seconds": 6,
+  "banners": [
+    {
+      "id": "1",
+      "image_url": "https://via.placeholder.com/800x120/E50914/FFFFFF?text=Tu+Anuncio+Aqui",
+      "link": "https://wa.me/573001234567",
+      "title": "Anunciante 1",
+      "active": true
+    },
+    {
+      "id": "2",
+      "image_url": "https://via.placeholder.com/800x120/1a1a2e/FFFFFF?text=Segundo+Anuncio",
+      "link": "https://wa.me/573001234567",
+      "title": "Anunciante 2",
+      "active": true
+    }
+  ]
+}
