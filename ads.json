@@ -3,14 +3,14 @@
   "banners": [
     {
       "id": "1",
-      "image_url": "https://via.placeholder.com/800x120/E50914/FFFFFF?text=Tu+Anuncio+Aqui",
+      "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
       "link": "https://wa.me/573001234567",
-      "title": "Anunciante 1",
+      "title": "Publicidad al colombiaiptv903@gmail.com",
       "active": true
     },
     {
       "id": "2",
-      "image_url": "https://via.placeholder.com/800x120/1a1a2e/FFFFFF?text=Segundo+Anuncio",
+      "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
       "link": "https://wa.me/573001234567",
       "title": "Anunciante 2",
       "active": true
